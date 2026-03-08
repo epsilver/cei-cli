@@ -20,18 +20,30 @@ That's it.
 
 ## Usage
 
-No installation needed. Just run:
+**Option 1 — Run once without installing:**
 
 ```
 npx epsilver-cei "Name Here"
 ```
 
+**Option 2 — Install globally and use anytime:**
+
+```
+npm install -g epsilver-cei
+```
+
+Then just:
+
+```
+cei "Name Here"
+```
+
 **Examples:**
 
 ```
-npx epsilver-cei "Noam Chomsky"
-npx epsilver-cei "Jordan Peterson"
-npx epsilver-cei "Taylor Swift" --first
+cei "Noam Chomsky"
+cei "Jordan Peterson"
+cei "Taylor Swift" --first
 ```
 
 `--first` skips the search result selector and picks automatically.
