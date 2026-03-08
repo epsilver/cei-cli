@@ -20,7 +20,7 @@ That's it.
 
 ## Usage
 
-**Option 1 — Run once without installing:**
+**Option 1 — Run once (no install required, `npx` downloads it automatically):**
 
 ```
 npx epsilver-cei "Name Here"
