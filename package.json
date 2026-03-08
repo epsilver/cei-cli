@@ -4,7 +4,8 @@
   "description": "Score any public figure on the Cultural Extremity Index using Wikipedia.",
   "type": "module",
   "bin": {
-    "cei": "./bin/cei.js"
+    "cei": "./bin/cei.js",
+    "epsilver-cei": "./bin/cei.js"
   },
   "engines": {
     "node": ">=18"
