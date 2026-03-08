@@ -1,4 +1,4 @@
-# Epsilver CEI
+# cei-cli
 
 Score any public figure on the **Cultural Extremity Index** — a deterministic five-axis ideology profiler powered by Wikipedia.
 
