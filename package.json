@@ -1,6 +1,6 @@
 {
   "name": "epsilver-cei",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Score any public figure on the Cultural Extremity Index using Wikipedia.",
   "type": "module",
   "bin": {
@@ -9,7 +9,13 @@
   "engines": {
     "node": ">=18"
   },
-  "keywords": ["cei", "politics", "ideology", "wikipedia", "cli"],
+  "keywords": [
+    "cei",
+    "politics",
+    "ideology",
+    "wikipedia",
+    "cli"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
