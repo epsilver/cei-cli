@@ -1,6 +1,6 @@
 {
   "name": "epsilver-cei",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Score any public figure on the Cultural Extremity Index using Wikipedia.",
   "type": "module",
   "bin": {
